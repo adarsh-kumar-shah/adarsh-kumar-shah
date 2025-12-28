@@ -1,5 +1,5 @@
 # 💫 About Me:
-Adarsh | Full-Stack Developer & Aspiring Data Analyst<br><br>I don't just build applications; I build the logic that drives them and the insights that grow them. With a solid foundation in software development and a passion for data storytelling, I bridge the gap between complex code and actionable business strategy.<br><br>From architecting clean databases in SQL to crafting intuitive visual narratives in Tableau and Power BI, I thrive at the intersection of development and analytics. I’m currently expanding my Python toolkit to automate workflows and uncover deeper patterns in raw data.
+Adarsh | Front-end Developer & Aspiring Data Analyst<br><br>I don't just build applications, I build the logic that drives them and the insights that grow them. With a solid foundation in software development and a passion for data storytelling, I bridge the gap between complex code and actionable business strategy.<br><br>From architecting clean databases in SQL to crafting intuitive visual narratives in Tableau and Power BI, I thrive at the intersection of development and analytics. I’m currently expanding my Python toolkit to automate workflows and uncover deeper patterns in raw data.
 
 
 ## 🌐 Socials:
